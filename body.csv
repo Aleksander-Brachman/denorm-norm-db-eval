@@ -1,0 +1,44 @@
+body_id,body
+suv,SUV
+sedn,Sedan
+coup,Coupe
+miva,minivan
+wagn,Wagon
+conv,Convertible
+rgcb,Regular Cab
+clcb,Club Cab
+excb,Extended Cab
+qdcb,Quad Cab
+crcb,Crew Cab
+hatc,hatchback
+van,Van
+spcb,SuperCab
+spcr,SuperCrew
+esva,e-series van
+trva,Transit Van
+ctcu,CTS Coupe
+ctwg,CTS Wagon
+cvcu,CTS-V Coupe
+cvwg,CTS-V Wagon
+dbcb,Double Cab
+kgcb,king cab
+mbcb,Mega Cab
+prva,promaster cargo van
+becv,Beetle Convertible
+plcb,Cab Plus
+p4cb,Cab Plus 4
+accb,Access Cab
+cmcb,CrewMax Cab
+xtcb,xtracab
+tsxw,tsx sport wagon
+gsed,g sedan
+gcou,G Coupe
+qcou,Q60 Coupe
+g37c,G37 Coupe
+gcon,G Convertible
+qcon,Q60 Convertible
+g37v,G37 Convertible
+elcu,Elantra Coupe
+gncu,genesis coupe
+koup,Koup
+gtcn,granturismo convertible
